@@ -20,7 +20,11 @@ p{
     display: flex;
     justify-content: left;
     align-items: center;
+<<<<<<< HEAD
     background: url('images/topback.jpg');
+=======
+    background: url('topback.jpg');
+>>>>>>> 3268c2d3a7ae528e9f66c455ada9d7b5d5c2f768
     background-size: cover;
     z-index: 1;
 }
@@ -38,6 +42,7 @@ p{
 }
 .banner .content h2{
     font-size: 3em;
+<<<<<<< HEAD
 }
 
 .midbanner{
@@ -50,6 +55,20 @@ p{
    /* background: url('https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg');
     background-size: cover;*/
 }
+=======
+}
+
+.midbanner{
+    position: relative;
+    width: 100%;
+    min-height: 110vh;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+   /* background: url('https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg');
+    background-size: cover;*/
+}
+>>>>>>> 3268c2d3a7ae528e9f66c455ada9d7b5d5c2f768
 .midbanner .midcontent{
     max-width: 600px;
     text-align: left;
@@ -60,7 +79,11 @@ p{
     font-size: 3em;
     padding-bottom: 15px;
 }
+<<<<<<< HEAD
 /*navigation bar*/
+=======
+
+>>>>>>> 3268c2d3a7ae528e9f66c455ada9d7b5d5c2f768
 header{
     position: fixed;
     top: 0;
@@ -196,9 +219,14 @@ section{
 {
     header, header.sticky{
         padding: 10px 20px;
+<<<<<<< HEAD
     }
 
 
+=======
+
+    }
+>>>>>>> 3268c2d3a7ae528e9f66c455ada9d7b5d5c2f768
     header .navi{
         display: none;
 
@@ -229,4 +257,8 @@ span.b {
     background-color: black;
     font-size:25px;
 }
+<<<<<<< HEAD
 /*footer end*/
+=======
+/*footer end*/
+>>>>>>> 3268c2d3a7ae528e9f66c455ada9d7b5d5c2f768
